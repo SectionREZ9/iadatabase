@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>IA DataBase</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+    <header>
+       <H1>IA DataBase</H1> 
+    </header>
+
+    <main>
+        <section>
+        <input type="text" placeholder="Pesquisar IAs" id="campo-pesquisa" onkeypress="if(event.key === 'Enter'){ pesquisar(); }">
+        <button onclick="pesquisar()">Pesquisar</button> 
+
+        </section>
+        <section class="resultados-pesquisa"
+        id = "resultados-pesquisa">
+        </section>
+    </main>
+    <footer>
+        <p>2024. IA DataBase. Todos os diretos reservados</p>
+        <p>Email para contato/sujestões : santiago_arthur@live.com</p>
+    </footer>
+<script src = "dados.js"></script>
+<script src="app.js"></script>
+</body>
+</html>
