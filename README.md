@@ -28,7 +28,7 @@ Já imaginou ter um catálogo completo das IAs mais incríveis da internet, tudo
 Quer ajudar a melhorar a IA DataBase? Ótimo! Você pode:
 
 * **Reportar bugs:** Encontrou algum erro? Abra uma issue no GitHub.
-* **Sugerir novas funcionalidades:** Tem alguma ideia para melhorar a aplicação? Compartilhe conosco!
+* **Sugerir novas funcionalidades:** Tem alguma ideia para melhorar a aplicação? Compartilhe comigo!
 * **Contribuir com código:** Se você sabe programar, pode enviar um pull request com suas alterações.
 
 **Vamos juntos construir a maior base de dados de IAs do mundo!**
